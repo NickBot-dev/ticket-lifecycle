@@ -37,7 +37,7 @@ YouTube: How to create, work, and resolve tickets within osTicket. https://www.y
 
 </p>
 <p>
-Creating Tickets as an End User. The customer would first access the organization's localhost URL page where customers/end users can create and submit their own tickets. This allows greater proficientcy for the submission of new tickets. 
+Creating Tickets as an End User. The customer would first access the organization's localhost URL page, where customers/end users can create and submit their own tickets. This allows greater proficientcy for the submission of new tickets. 
 </p>
 <br />
 
@@ -58,10 +58,12 @@ Ticket Properites consist of Status, Priority, Department, Service Level Agreeme
 <p>
 
  ![scrnshot 13](https://github.com/user-attachments/assets/09fb06f2-8db2-48a9-b184-9d32c2007fe6)
- 
+
+ ![image](https://github.com/user-attachments/assets/8df2a43b-b6c1-4029-a7f3-68a9021161f5)
+
 </p>
 <p>
-Ticket Assignment and Communication. This ticket was assigned to myself and the Online Bankng team. I responded with an update to the emergency after further investigation. Also, assuring the customer that I am working on it diligently. The second comment posted was my final solution for resolving the ticket. Being polite and empathetic with customers through good communication is important.  
+Working the Ticket and Communication. This ticket was assigned to myself and the Online Bankng team. I responded with an update to the emergency after further investigation. Also, assuring the customer that I am working on it diligently. The second comment posted was my final solution for resolving the ticket. Being polite and empathetic with customers through good communication is important.  
 </p>
 <br />
 
