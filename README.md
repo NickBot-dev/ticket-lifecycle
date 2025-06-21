@@ -22,16 +22,20 @@ YouTube: How to create, work, and resolve tickets within osTicket. https://www.y
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Observing Ticket Properties
+- Ticket Intake
 - Ticket Assignment and Communication
-- Resolving/Closing Tickets 
-- Creating Tickets as an End User
+- Working Tickets 
+- Resolving Tickets
 
 <h2>Lifecycle Stages</h2>
 
 <p>
 
- ![scrnshot 1](https://github.com/user-attachments/assets/7539a6e6-2380-41e7-82e4-ec1aeef65063)
+ ![scrnshot 11](https://github.com/user-attachments/assets/3192908d-c98d-483e-a62c-a09a9197ebd9)
+
+ ![scrnshot 10](https://github.com/user-attachments/assets/5e6ebf32-70b4-4cd9-91c7-a60775a86ce2)
+
+ ![scrnshot 9](https://github.com/user-attachments/assets/e2eb30c0-79b5-4510-98bc-3242ce1538a1)
 
 </p>
 <p>
@@ -41,16 +45,11 @@ Observing Ticket Properties. Ticket Properites consist of Status, Priority, Depa
 
 <p>
 
- ![scrnshot 3](https://github.com/user-attachments/assets/e7819bcf-53ae-46d2-9753-c7294870136d)
-
- ![scrnshot 2](https://github.com/user-attachments/assets/30919279-951b-420d-b608-a0c1053c2111)
-
- ![scrnshot 4](https://github.com/user-attachments/assets/3517d21c-381d-4448-bd19-e184c22aa2dd)
-
+ 
 
 </p>
 <p>
-Ticket Assignment and Communication. This ticket was assigned to myself and I responded with an update to the emergency after further investigation. Also, assuring the customer that I am working on it diligently. The second comment posted was my final solution for resolving the ticket. Being polite and empathetic with customers through good communication is important.  
+Ticket Assignment and Communication. This ticket was assigned to myself and the Online Bankng team. I responded with an update to the emergency after further investigation. Also, assuring the customer that I am working on it diligently. The second comment posted was my final solution for resolving the ticket. Being polite and empathetic with customers through good communication is important.  
 </p>
 <br />
 
