@@ -50,7 +50,7 @@ Observing Ticket Properties. Ticket Properites consist of Status, Priority, Depa
 
 </p>
 <p>
-Ticket Assignment and Communication. This ticket was assigned to myself and I responded with an update to the emergency after further investigation. Also, assuring the customer that I am working on it diligently. The second comment posted was my final solution for resolving the ticket. Being polite and empathetic with customers through good communication is a must.  
+Ticket Assignment and Communication. This ticket was assigned to myself and I responded with an update to the emergency after further investigation. Also, assuring the customer that I am working on it diligently. The second comment posted was my final solution for resolving the ticket. Being polite and empathetic with customers through good communication is important.  
 </p>
 <br />
 
