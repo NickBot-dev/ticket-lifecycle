@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Observing Ticket Properties
 - Ticket Assignment and Communication
 - Resolving Tickets 
-- Resolution of Tickets
+- Closing Tickets
 
 <h2>Lifecycle Stages</h2>
 
