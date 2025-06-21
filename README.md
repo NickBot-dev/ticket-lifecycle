@@ -41,10 +41,14 @@ Observing Ticket Properties. Ticket Properites consist of Priority, Department, 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![scrnshot 3](https://github.com/user-attachments/assets/e7819bcf-53ae-46d2-9753-c7294870136d)
+
+ ![scrnshot 2](https://github.com/user-attachments/assets/30919279-951b-420d-b608-a0c1053c2111)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ticket Assignment and Communication
 </p>
 <br />
 
