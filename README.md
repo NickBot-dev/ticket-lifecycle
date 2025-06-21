@@ -32,13 +32,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 
-Observing Ticket Properties
-
  ![scrnshot 1](https://github.com/user-attachments/assets/7539a6e6-2380-41e7-82e4-ec1aeef65063)
 
 </p>
 <p>
-Ticket Properites consist of Priority, Department, Service Level Agreement (SLA), & who the ticket is assigned to.
+Observing Ticket Properties. Ticket Properites consist of Priority, Department, Service Level Agreement (SLA), & who the ticket is assigned to.
 </p>
 <br />
 
