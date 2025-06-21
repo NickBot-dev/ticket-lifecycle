@@ -36,7 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Observing Ticket Properties. Ticket Properites consist of Status, Priority, Department, Service Level Agreement (SLA), & who the ticket is assigned to.
+Observing Ticket Properties. Ticket Properites consist of Status, Priority, Department, Service Level Agreement (SLA), & whom the ticket is assigned to.
 </p>
 <br />
 
