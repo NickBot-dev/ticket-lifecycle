@@ -46,9 +46,12 @@ Observing Ticket Properties. Ticket Properites consist of Priority, Department, 
 
  ![scrnshot 2](https://github.com/user-attachments/assets/30919279-951b-420d-b608-a0c1053c2111)
 
+ ![scrnshot 4](https://github.com/user-attachments/assets/3517d21c-381d-4448-bd19-e184c22aa2dd)
+
+
 </p>
 <p>
-Ticket Assignment and Communication. This ticket was assigned to myself and I responded with an update to the emergency after further investigation. As well as assuring the customer that I am still working on it diligently.  
+Ticket Assignment and Communication. This ticket was assigned to myself and I responded with an update to the emergency after further investigation. As well as assuring the customer that I am still working on it diligently. Being polite and empathetic with customers through communication is important.  
 </p>
 <br />
 
