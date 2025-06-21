@@ -63,13 +63,17 @@ Ticket Properites consist of Status, Priority, Department, Service Level Agreeme
 
 </p>
 <p>
-Working the Ticket and Communication. This ticket was assigned to myself and the Online Bankng team. I responded with an update to the emergency after further investigation. Also, assuring the customer that I am working on it diligently. The second comment posted was my final solution for resolving the ticket. Being polite and empathetic with customers through good communication is important.  
+Working Tickets and Communication. This ticket was assigned to myself and the Online Bankng team. I responded with an update to the issue after further investigation. Also, assuring the customer that I am working on it diligently. The comment section below the ticket allows for communication to keep customers updated on the progress of resolving tickets. Being polite and empathetic with customers through good communication is important.   
 </p>
 <br />
 
 <p>
 
  ![scrnshot 15](https://github.com/user-attachments/assets/7d388a82-ffde-4223-aee1-056ad85bcd61)
+
+ ![scrnshot 16](https://github.com/user-attachments/assets/d72c5eff-b598-4101-ad89-3ae966f346de)
+
+ ![image](https://github.com/user-attachments/assets/e14db116-19c2-4837-9501-a0620e4f3c56)
 
 </p>
 <p>
