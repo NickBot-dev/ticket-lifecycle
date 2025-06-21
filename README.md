@@ -72,6 +72,6 @@ After a ticket has been resolved, you would edit the status of the ticket, chang
 
 </p>
 <p>
-Creating Tickets as an End User. The customer would first access the organization's localhost page where customers/end users can create and submit their own tickets. This allows greater proficientcy for the submission of new tickets. 
+Creating Tickets as an End User. The customer would first access the organization's localhost URL page where customers/end users can create and submit their own tickets. This allows greater proficientcy for the submission of new tickets. 
 </p>
 <br />
