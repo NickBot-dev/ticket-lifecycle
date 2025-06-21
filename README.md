@@ -77,7 +77,7 @@ Working Tickets and Communication. This ticket was assigned to myself and the On
 
 </p>
 <p>
-After a ticket has been resolved, you would edit the status of the ticket, changing the status to resolved. Previously resolved tickets will remain accessible to view under the closed tab. 
+Resolving Tickets. After a ticket has been resolved, you would edit the status of the ticket, changing the status to resolved. Previously resolved tickets will remain accessible to view under the closed tab. 
 </p>
 <br />
 
