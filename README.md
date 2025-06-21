@@ -56,10 +56,12 @@ Ticket Assignment and Communication. This ticket was assigned to myself and I re
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![scrnshot 5](https://github.com/user-attachments/assets/5922ae36-25f4-4961-b9a6-2b47bb324122)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After a ticket has been resolved, you would edit the status of the ticket, changing the status to resolved. Previously resolved tickets will remain accessible to view under the closed tab. 
 </p>
 <br />
 
