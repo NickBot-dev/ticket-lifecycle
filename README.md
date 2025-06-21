@@ -31,6 +31,18 @@ YouTube: How to create, work, and resolve tickets within osTicket. https://www.y
 
 <p>
 
+ ![scrnshot 6](https://github.com/user-attachments/assets/c88e4b26-a2f6-4860-a843-fc0f1d716527)
+
+ ![image](https://github.com/user-attachments/assets/6aefe1a7-5b12-4c03-9962-31a1e0d7151d)
+
+</p>
+<p>
+Creating Tickets as an End User. The customer would first access the organization's localhost URL page where customers/end users can create and submit their own tickets. This allows greater proficientcy for the submission of new tickets. 
+</p>
+<br />
+
+<p>
+
  ![scrnshot 11](https://github.com/user-attachments/assets/3192908d-c98d-483e-a62c-a09a9197ebd9)
 
  ![scrnshot 10](https://github.com/user-attachments/assets/5e6ebf32-70b4-4cd9-91c7-a60775a86ce2)
@@ -39,14 +51,14 @@ YouTube: How to create, work, and resolve tickets within osTicket. https://www.y
 
 </p>
 <p>
-Observing Ticket Properties. Ticket Properites consist of Status, Priority, Department, Service Level Agreement (SLA), & whom the ticket is assigned to.
+Ticket Properites consist of Status, Priority, Department, Service Level Agreement (SLA), & whom the ticket is assigned to.
 </p>
 <br />
 
 <p>
 
+ ![scrnshot 13](https://github.com/user-attachments/assets/09fb06f2-8db2-48a9-b184-9d32c2007fe6)
  
-
 </p>
 <p>
 Ticket Assignment and Communication. This ticket was assigned to myself and the Online Bankng team. I responded with an update to the emergency after further investigation. Also, assuring the customer that I am working on it diligently. The second comment posted was my final solution for resolving the ticket. Being polite and empathetic with customers through good communication is important.  
@@ -63,14 +75,3 @@ After a ticket has been resolved, you would edit the status of the ticket, chang
 </p>
 <br />
 
-<p>
-
- ![scrnshot 6](https://github.com/user-attachments/assets/c88e4b26-a2f6-4860-a843-fc0f1d716527)
-
- ![image](https://github.com/user-attachments/assets/6aefe1a7-5b12-4c03-9962-31a1e0d7151d)
-
-</p>
-<p>
-Creating Tickets as an End User. The customer would first access the organization's localhost URL page where customers/end users can create and submit their own tickets. This allows greater proficientcy for the submission of new tickets. 
-</p>
-<br />
