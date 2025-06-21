@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Observing Ticket Properties
 - Ticket Assignment and Communication
 - Resolving/Closing Tickets 
-- Assigning Tickets as an End User
+- Creating Tickets as an End User
 
 <h2>Lifecycle Stages</h2>
 
@@ -66,7 +66,11 @@ After a ticket has been resolved, you would edit the status of the ticket, chang
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![scrnshot 6](https://github.com/user-attachments/assets/c88e4b26-a2f6-4860-a843-fc0f1d716527)
+
+ ![image](https://github.com/user-attachments/assets/6aefe1a7-5b12-4c03-9962-31a1e0d7151d)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
