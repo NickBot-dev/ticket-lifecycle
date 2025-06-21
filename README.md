@@ -73,6 +73,6 @@ After a ticket has been resolved, you would edit the status of the ticket, chang
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating Tickets as an End User. The customer would first access the organization's localhost page where customers/end users can create and submit their own tickets. This alowws greater proficientcy for the submission of new tickets. 
 </p>
 <br />
