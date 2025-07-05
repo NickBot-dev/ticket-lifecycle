@@ -12,20 +12,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 YouTube: How to create, work, and resolve tickets within osTicket. https://www.youtube.com/watch?v=mf6IrOdbGlQ
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure Virtual Machines
+- Remote Desktop Connection
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro</b> (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
 - Ticket Intake
 - Ticket Assignment and Communication
 - Working Tickets 
-- Resolving Tickets
+- Resolution of Tickets
 
 <h2>Lifecycle Stages</h2>
 
@@ -51,7 +51,7 @@ Creating Tickets as an End User. The customer would first access the organizatio
 
 </p>
 <p>
-Ticket Properites consist of Status, Priority, Department, Service Level Agreement (SLA), & whom the ticket is assigned to.
+Ticket Properites consist of Status, Priority, Department, Service Level Agreement (SLA), and who the ticket is assigned to.
 </p>
 <br />
 
@@ -63,7 +63,7 @@ Ticket Properites consist of Status, Priority, Department, Service Level Agreeme
 
 </p>
 <p>
-Working Tickets and Communication. This ticket was assigned to myself and the Online Bankng team. I responded with an update to the issue after further investigation. Also, assuring the customer that I am working on it diligently. The comment section below the ticket allows for communication to keep customers updated on the progress of resolving tickets. Being polite and empathetic with customers through good communication is important.   
+Working Tickets and Communication. This ticket was assigned to myself and the Online Bankng team. I responded with an update to the issue after further investigation. Also, assuring the customer that I am working on it diligently. The comment section below the ticket allows for communication to keep customers updated on the progress of resolving tickets. Being polite and empathetic with customers through good communication skills is important.   
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Working Tickets and Communication. This ticket was assigned to myself and the On
 
 </p>
 <p>
-Resolving Tickets. After a ticket has been resolved, you would edit the status of the ticket, changing the status to resolved. Previously resolved tickets will remain accessible to view under the closed tab. 
+Resolution of Tickets. After a ticket has been resolved, you would edit the status of the ticket, changing the status to resolved. Previously resolved tickets will remain accessible to view for future reference under the closed tab. 
 </p>
 <br />
 
