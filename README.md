@@ -18,7 +18,7 @@ YouTube: How to create, work, and resolve tickets within osTicket. https://www.y
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro</b> (21H2)
+- Windows 10 Pro
 
 <h2>Ticket Lifecycle Stages</h2>
 
